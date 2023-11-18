@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkiUniMatch=self.webpackChunkiUniMatch||[]).push([[592],{1777:(r,n,e)=>{e.d(n,{c:()=>o});var a=e(4946);let o=(()=>{class t{static#t=this.\u0275fac=function(c){return new(c||t)};static#e=this.\u0275cmp=a.Xpm({type:t,selectors:[["app-footer"]],decls:0,vars:0,template:function(c,p){}})}return t})()}}]);

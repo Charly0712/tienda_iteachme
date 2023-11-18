@@ -8041,7 +8041,7 @@ textarea:-ms-input-placeholder {
 }
 
 .sticky-top {
-  top: 30px;
+  top: 0px;
   z-index: 9;
 }
 
@@ -24270,7 +24270,7 @@ blockquote.has-text-align-right cite,
   z-index: 1;
 }
 .rbt-banner-1 .content .inner .title {
-  font-size: 64px;
+  font-size: 60px;
   font-weight: 700;
   margin-top: 40px;
   margin-bottom: 20px;
@@ -24342,7 +24342,6 @@ blockquote.has-text-align-right cite,
   z-index: 2;
   margin-bottom: 6px;
   position: relative;
-  left: -40px;
 }
 @media only screen and (min-width: 992px) and (max-width: 1199px) {
   .rbt-banner-1 .content .shape-wrapper {
@@ -28573,7 +28572,3 @@ Course Sidebar
   }
 }
 /*# sourceMappingURL=../maps/style.css.map */
-.countdown{
-  background-color: #807bf2;
-  border-radius: 10px;
-}
